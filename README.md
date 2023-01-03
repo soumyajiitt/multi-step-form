@@ -54,6 +54,7 @@ Create a simple multiple-step form where users should be able to:
 
 ## Author
 - Frontend Mentor - [@soumyajiitt](https://www.frontendmentor.io/profile/soumyajiitt)
+- LinkedIn - [@Soumyajit Basak](https://www.linkedin.com/in/soumyajiitttt/)
 
 
 ## Acknowledgments
