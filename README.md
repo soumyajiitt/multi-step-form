@@ -31,7 +31,7 @@ Create a simple multiple-step form where users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/multistep-form-bWCfkK6kW8)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/multistep-form-6zK57P3EdL)
 - Live Site URL: [Add live site URL here](https://multi-step-form-soumyajiitt.netlify.app/)
 
 ## My process
